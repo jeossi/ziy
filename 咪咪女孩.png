@@ -1,0 +1,22 @@
+{
+  "作者": "Aries",
+  "站名": "",
+  "请求头": "User-Agent$MOBILE_UA",
+  "编码": "UTF-8",
+  "主页url": "https://mimigirl.44499901.xyz/",
+  "首页": "120",
+  "起始页": "1",
+  "分类url": "https://mimigirl.44499901.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+  "分类": "国产视频$24#欧美高清$25#无码中文字幕$20#有码中文字幕$21#日本无码$22#日本有码$23#动漫剧情$26",
+  "二次截取": "",
+  "数组": "col-2\"&&</div></div>",
+  "标题": "title=\"&&\"",
+  "图片": "style=\"background-image:url(&&)\"",
+  "副标题": "🌹+title=\"&&\"",
+  "链接": "href=\"&&\"",
+  "播放数组": "card-header\"&&</div>",
+  "播放列表": "<a&&/a>",
+  "播放标题": "🌹+>&&</p",
+  "播放链接": "href=\"&&\"",
+  "跳转播放链接": "var player_*\"url\":\"&&\""
+}
