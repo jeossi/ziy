@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/01.bmp",
+      "name": "大师01"
+    },
+    {
       "url": "https://gh.llkk.cc/https://github.com/qist/tvbox/blob/master/jsm.json",
       "name": "qist"
     },
@@ -9,16 +13,20 @@
       "name": "裤佬"
     },
     {
-      "url": "https://raw.giteeusercontent.com/yuan301/tv/raw/master/ok.json",
-      "name": "刚哥无敌"
-    },
-    {
       "url": "https://gh.llkk.cc/https://github.com/IY-CPU/IY/blob/main/%E5%A4%A9%E7%A5%9EIY.png",
       "name": "天神"
     },
     {
       "url": "https://xn--anna-wn6lw489o.v.nxog.top/m",
       "name": "欧哥"
+    },
+	{
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/sspp/kk/raw/180.bmp",
+      "name": "大师180"
+    },
+	{
+      "url": "https://raw.giteeusercontent.com/yuan301/tv/raw/master/ok.json",
+      "name": "刚哥无敌"
     },
     {
       "url": "https://xn--rfq-mf3g9f.v.nxog.top/apib.php?id=1",
